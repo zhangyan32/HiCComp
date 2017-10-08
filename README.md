@@ -1,4 +1,7 @@
 # HiCComp: Multiple-level Comparative Analysis of Hi-C Data by Triplet Network
+## Contact
+zhang348 at email.sc.edu
+
 ## Introduction
 Hi-C technique is an important tool for the study of 3D genome organization. In the past few years, we have seen an explosion of Hi-C data in a variety of cell/tissue types. While these publicly available data presents an unprecedented opportunity to interrogate chromosomal architecture, how to quantitatively compare Hi-C data from different tissues and identify tissue-specific chromatin interactions remains challenging. 
 
